@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "拝啓、桜舞い散るこの日に",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-25T17:51:09.384658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_拝啓、桜舞い散るこの日に_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に",
+      "artist": "まふまふ mafumafu",
+      "has_synced": true,
+      "path": "select/02_拝啓、桜舞い散るこの日に_まふまふ_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に - Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/03_拝啓、桜舞い散るこの日に_-_Haikei_Sakura_Maichiru_Kono_Hi_Ni_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に",
+      "artist": "まふまふ",
+      "has_synced": true,
+      "path": "select/04_拝啓、桜舞い散るこの日に_まふまふ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に - Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/05_拝啓、桜舞い散るこの日に_-_Haikei_Sakura_Maichiru_Kono_Hi_Ni_mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拝啓、桜舞い散るこの日に",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_拝啓、桜舞い散るこの日に_まふまふ.txt"
+    }
+  ]
+}
